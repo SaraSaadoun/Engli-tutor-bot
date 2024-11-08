@@ -61,7 +61,7 @@ Each mode uses a structured prompt template to maintain clarity and consistency 
 - Deployed the chatbot using **Streamlit**, providing a user-friendly interface with multi-mode interaction. The integration with **MLflow** allows tracking and managing interactions, helping refine the user experience.
 
 
-### How to Run the App Locally
+## How to Run the App Locally
 To run the chatbot application locally, follow these steps:
 
 1. **Clone the repository**:
