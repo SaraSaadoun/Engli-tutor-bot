@@ -41,7 +41,7 @@ if 'chat_context' not in st.session_state:
 ########################################################################
 #               Basic Elements of User Interface                       #
 ########################################################################
-st.title(f'🌐 Enli Tutor Bot  • ')
+st.title(f'🌐 Engli Tutor Bot  • ')
 
 mode = st.sidebar.selectbox('Chatbot Mode', ['Learning', 'Practice'])
 
